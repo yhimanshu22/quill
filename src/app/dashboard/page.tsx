@@ -12,7 +12,7 @@ const Page = async () => {
 
     const dbUser = await db.user.findFirst({
         where: {
-            id: user.id
+            id: (await user).id
         }
     })
 
