@@ -100,8 +100,6 @@ You can deploy this project on any cloud platform, but we recommend using Vercel
 1. Push your code to a GitHub repository.
 2. Connect your GitHub repository to Vercel and Render for deployment.
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
